@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">Aspiring software engineer who loves to build things which will help millions if not billions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-py" alt="vivek-py" /> </p>
 
 - 👨‍💻 All of my projects are available at [vivekpandey.live](vivekpandey.live)
 
