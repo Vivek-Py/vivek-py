@@ -19,3 +19,4 @@
 <a href="https://twitter.com/iamvivekpandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamvivekpandey" height="30" width="30" /></a>
 <a href="https://medium.com/@vivekpy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vivekpy" height="30" width="30" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivek-py" alt="vivek-py" /> </p>
