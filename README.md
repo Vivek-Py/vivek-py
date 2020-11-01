@@ -6,5 +6,5 @@
 
 - 💬 Ask me about **C++, Python and Java**
 
-(image)[https://images.app.goo.gl/X9cnLMF8v3GXqt1c9]
+![](https://images.app.goo.gl/X9cnLMF8v3GXqt1c9)
 
