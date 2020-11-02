@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring software engineer who loves to build things which will help millions if not billions.</h3>
 
 <p align="center">
-💻 All of my projects are available at [vivekpandey.live](https://vivekpandey.live)
+💻 All of my projects are available at vivekpandey.live
 </p>
 <p align="center">
 💬 Ask me about **C++, Python and Java**
