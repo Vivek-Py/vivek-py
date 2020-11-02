@@ -5,7 +5,7 @@
   💻 All of my projects are available at <a href="https://vivekpandey.live">vivekpandey.live</a>
 </p>
 <p align="center">
-💬 Ask me about **C++, Python and Java**
+💬 Ask me about C++ and Python**
 </p>
 <p align="center">
 <img src="matrix.gif" alt="animated" />
