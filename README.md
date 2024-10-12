@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://vivekpandey.in/" target="_blank">Vivek Pandey</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
-<br />
-
 Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a fullstack engineer.
 
 ## ✏️ Recent Blog
@@ -15,9 +12,6 @@ Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a 
 
 ## 🌗 Weekly Development Breakdown
 
-
-<!-- wakatime_plugin_end -->
-
 **Languages and Tools:**
 
 <p>
@@ -27,11 +21,3 @@ Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
 </p>
 
-<!-- badge_plugin_start -->
-
----
-
-<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
-<a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
-<!-- badge_plugin_end -->
