@@ -15,7 +15,7 @@ Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a 
 **Languages and Tools:**
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/3393/3393920.png" height="40" style="vertical-align:down; margin:4px" alt="react">
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="40" style="vertical-align:down; margin:4px" alt="react">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
