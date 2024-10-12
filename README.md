@@ -5,10 +5,10 @@ Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a 
 
 ## ✏️ Recent Blog
 
+- <a href='https://blog.vivekpandey.in/covert-your-react-app-into-native-app-android-and-ios' target='_blank'>How to convert your react app into native app in five simple steps!</a> 
 - <a href='https://blog.vivekpandey.in/whats-better-to-wrap-a-svg-object-or-img' target='_blank'>What's better to wrap a SVG - Object, or Img?</a>
-- <a href='https://blog.vivekpandey.in/what-to-use-let-or-const' target='_blank'>What to use Let or Const?</a> 
 - <a href='https://blog.vivekpandey.in/should-you-follow-tdd' target='_blank'>Should you follow TDD?</a> 
-- <a href='https://blog.vivekpandey.in/covert-your-react-app-into-native-app-android-and-ios' target='_blank'>Today you'll learn how to convert your react app into native app in five simple steps.</a> 
+- <a href='https://blog.vivekpandey.in/what-to-use-let-or-const' target='_blank'>When to use Let or Const?</a> 
 
 ## 🌗 Weekly Development Breakdown
 
