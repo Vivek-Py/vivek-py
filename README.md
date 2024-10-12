@@ -10,7 +10,7 @@ Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a 
 - <a href='https://blog.vivekpandey.in/should-you-follow-tdd' target='_blank'>Should you follow TDD?</a> 
 - <a href='https://blog.vivekpandey.in/what-to-use-let-or-const' target='_blank'>When to use Let or Const?</a> 
 
-## 🌗 Weekly Development Breakdown
+## 🌗 My Daily Drivers
 
 **Languages and Tools:**
 
@@ -18,6 +18,5 @@ Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
 </p>
 
