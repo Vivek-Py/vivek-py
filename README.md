@@ -1,8 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://vivekpandey.in/" target="_blank">Vivek Pandey</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-Hi, I'm Vivek Pandey, a frontend engineer from India (IN). Dedicated to being a fullstack engineer.
-
 ## ✏️ Recent Blog
 
 - <a href='https://blog.vivekpandey.in/covert-your-react-app-into-native-app-android-and-ios' target='_blank'>How to convert your react app into native app in five simple steps!</a> 
